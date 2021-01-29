@@ -59,6 +59,7 @@ The following table lists the {{site.data.keyword.cloud_notm}} MZRs and the regi
 |-----------|----------|------|----|
 | Sydney        | au-syd   |au-syd-1<br>au-syd-2<br>au-syd-3 | SYD01<br>SYD04<br>SYD05|
 | Tokyo         | jp-tok   |jp-tok-1<br>jp-tok-2<br>jp-tok-3 | TOK02<br>TOK04<br>TOK05|
+| Osaka         | jp-osa   |jp-osa-1<br>jp-osa-2<br>jp-osa-3 | OSA21<br>OSA22<br>OSA23Added O|
 {: caption="Table 1. Multizone regions in Asia Pacific" caption-side="top"}
 {: #asiapacific-mzr}
 {: tab-title="Asia Pacific"}
